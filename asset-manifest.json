@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5bb4536c.css",
+    "main.js": "/portfolio/static/js/main.b7c62a7c.js",
+    "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/GreatVibes-Regular.ttf": "/portfolio/static/media/GreatVibes-Regular.6d246c3b51d7eb58b13a.ttf",
+    "static/media/bhavans.png": "/portfolio/static/media/bhavans.4e54765fd26b7d339f14.png",
+    "static/media/stanford_logo.png": "/portfolio/static/media/stanford_logo.de5f29dece094f7bec60.png",
+    "static/media/Sarthaklogo.svg": "/portfolio/static/media/Sarthaklogo.a7178f3f52203eb2c6ba.svg",
+    "static/media/John-Hopkins-University.png": "/portfolio/static/media/John-Hopkins-University.37cdbc19b2a170e42c87.png",
+    "static/media/sandipani.webp": "/portfolio/static/media/sandipani.17a86b3c0a1882b58d72.webp",
+    "static/media/thyronxt.png": "/portfolio/static/media/thyronxt.8bc5bcf632e35fa9fefe.png",
+    "static/media/abyeti.png": "/portfolio/static/media/abyeti.84f035fa25b5d717cf54.png",
+    "static/media/vitvellore.jpeg": "/portfolio/static/media/vitvellore.799dd42300912904c550.jpeg",
+    "static/media/clevertap.png": "/portfolio/static/media/clevertap.f96fce814025ac91d182.png",
+    "static/media/docon_patient.webp": "/portfolio/static/media/docon_patient.f84b06c4a58a5c55edb6.webp",
+    "index.html": "/portfolio/index.html",
+    "main.5bb4536c.css.map": "/portfolio/static/css/main.5bb4536c.css.map",
+    "main.b7c62a7c.js.map": "/portfolio/static/js/main.b7c62a7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bb4536c.css",
+    "static/js/main.b7c62a7c.js"
+  ]
+}
