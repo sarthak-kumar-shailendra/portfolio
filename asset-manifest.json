@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b799ae08.css",
-    "main.js": "/portfolio/static/js/main.19fae37d.js",
-    "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/GreatVibes-Regular.ttf": "/portfolio/static/media/GreatVibes-Regular.6d246c3b51d7eb58b13a.ttf",
+    "main.css": "/portfolio/static/css/main.b235f378.css",
+    "main.js": "/portfolio/static/js/main.36c40ba2.js",
     "static/media/bhavans.png": "/portfolio/static/media/bhavans.4e54765fd26b7d339f14.png",
     "static/media/hacktoberfest.jpeg": "/portfolio/static/media/hacktoberfest.b73f4d20ffaef0acb6af.jpeg",
+    "static/media/Montserrat-Regular.woff2": "/portfolio/static/media/Montserrat-Regular.0a49d3c8826662f36fbe.woff2",
     "static/media/stanford_logo.png": "/portfolio/static/media/stanford_logo.de5f29dece094f7bec60.png",
     "static/media/Sarthaklogo.svg": "/portfolio/static/media/Sarthaklogo.a7178f3f52203eb2c6ba.svg",
+    "static/media/GreatVibes-Regular.woff2": "/portfolio/static/media/GreatVibes-Regular.6f79b6bba723b3cdbf9f.woff2",
     "static/media/linkedIn_RisingStar.jpeg": "/portfolio/static/media/linkedIn_RisingStar.008ce810279ee646c769.jpeg",
     "static/media/John-Hopkins-University.png": "/portfolio/static/media/John-Hopkins-University.37cdbc19b2a170e42c87.png",
     "static/media/apollopharmacy.jpeg": "/portfolio/static/media/apollopharmacy.53dafda3a41b97092583.jpeg",
@@ -20,11 +20,11 @@
     "static/media/clevertap.png": "/portfolio/static/media/clevertap.f96fce814025ac91d182.png",
     "static/media/docon_patient.webp": "/portfolio/static/media/docon_patient.f84b06c4a58a5c55edb6.webp",
     "index.html": "/portfolio/index.html",
-    "main.b799ae08.css.map": "/portfolio/static/css/main.b799ae08.css.map",
-    "main.19fae37d.js.map": "/portfolio/static/js/main.19fae37d.js.map"
+    "main.b235f378.css.map": "/portfolio/static/css/main.b235f378.css.map",
+    "main.36c40ba2.js.map": "/portfolio/static/js/main.36c40ba2.js.map"
   },
   "entrypoints": [
-    "static/css/main.b799ae08.css",
-    "static/js/main.19fae37d.js"
+    "static/css/main.b235f378.css",
+    "static/js/main.36c40ba2.js"
   ]
 }
